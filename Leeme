@@ -1,0 +1,6 @@
+- mas de 100 datos en efecto tenian ruido, resltaban por el hecho de que sus alturas iniciales eran valores
+muy grandes en comparacion con el resto de datos.
+
+-como se puede ver la grafica del punto dos indica quel nuestro exoplaneta tiene mas gravedad en los polos, por lo que es mas achatado en ese lugar.
+
+-tanto en las grafica "formula2"  como en los resultadospunto4 podemos ver que la formula dos no se ajusta esto es porque el coeficiente que acompania el termino caudrado  es tan pequenio que hace que la formula se parezca mas a una recta. Por eso la que mejor se ajusta es la formula 1.
